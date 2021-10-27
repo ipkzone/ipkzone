@@ -23,7 +23,7 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Job: "Crypto Airdrop Hunter",
+    Job: "Silent Crypto Airdrop",
     Code: "PHP Program",
     BestAndFavoriteSkill: "Sleep and Eat",
     Twitter: "https://twitter.com/iddant_387"
