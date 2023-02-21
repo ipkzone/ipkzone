@@ -9,28 +9,54 @@
 
 <br>
 
-### More about me...
 
-```go
-package main
+**I'm an Early 🐤** 
 
-type Me struct{
-  Code string
-  Job string
-  BestAndFavoriteSkill string
-  Twitter string
-}
+```text
+🌞 Morning      808 commits       ███████████░░░░░░░░░░░░░░   44.08 % 
+🌆 Daytime      585 commits       ████████░░░░░░░░░░░░░░░░░   31.91 % 
+🌃 Evening      384 commits       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+🌙 Night         56 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
-func main() {
-  me := &Me{
-    Job: "Silent Crypto Airdrop - Build Bot",
-    Code: "PHP Program",
-    BestAndFavoriteSkill: "Eat - Sleep - Code - Repeat",
-    Twitter: "https://twitter.com/ipkzone",
-    Facebook: "https://facebook.com/ipkzone.co.id",
-    Instagram: "https://instagram.com/ipkzone.ac.id"
-  }
-  _ = me
-}
 ```
----
+<h3>Project Build</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ipkzone/klikindomaret_tools"><b>KlikIndomaret Tools</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/klikindomaret_tools?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/klikindomaret_tools?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/klikindomaret_tools?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/klikindomaret_tools?style=flat-square&labelColor=343b41"/>     </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ipkzone/eDOT"><b>Edot Aplikasi Bot</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/eDOT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/eDOT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/eDOT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/eDOT?style=flat-square&labelColor=343b41"/></td>
+	  </tr>
+    <tr>
+      <td><a href="https://github.com/ipkzone/klikindomaret_events"><b>Event KlikIndomaret</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/klikindomaret_events?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/klikindomaret_events?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/klikindomaret_events?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/klikindomaret_events?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+      <td><a href="https://github.com/ipkzone/installerhmsc"><b>Installer HMSC Libs</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/installerhmsc?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/installerhmsc?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/installerhmsc?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/installerhmsc?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
