@@ -3,7 +3,7 @@
 <p><em>Silent Crypto Airdrop <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
-[![Twitter: verry__d](https://img.shields.io/twitter/follow/iddant_387?style=flat-square)](https://twitter.com/iddant_387)
+[![Twitter: verry__d](https://img.shields.io/twitter/follow/ipkzone?style=flat-square)](https://twitter.com/ipkzone)
 [![GitHub vsec7](https://img.shields.io/github/followers/ipkzone?label=follow%20github&style=flat-square)](https://github.com/ipkzone)
 [![Paypal viloid](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/ipkzone)
 
@@ -23,10 +23,12 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Job: "Silent Crypto Airdrop",
+    Job: "Silent Crypto Airdrop - Build Bot",
     Code: "PHP Program",
-    BestAndFavoriteSkill: "Sleep and Eat",
-    Twitter: "https://twitter.com/iddant_387"
+    BestAndFavoriteSkill: "Eat - Sleep - Code - Repeat",
+    Twitter: "https://twitter.com/ipkzone",
+    Facebook: "https://facebook.com/ipkzone.co.id",
+    Instagram: "https://instagram.com/ipkzone.ac.id"
   }
   _ = me
 }
