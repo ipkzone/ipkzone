@@ -32,26 +32,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ipkzone/klikindomaret_tools"><b>KlikIndomaret Tools</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/klikindomaret_tools?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/klikindomaret_tools?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/klikindomaret_tools?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/klikindomaret_tools?style=flat-square&labelColor=343b41"/>     </td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ipkzone/eDOT"><b>Edot Aplikasi Bot</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/eDOT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/eDOT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/eDOT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/eDOT?style=flat-square&labelColor=343b41"/></td>
 	  </tr>
-    <tr>
-      <td><a href="https://github.com/ipkzone/klikindomaret_events"><b>Event KlikIndomaret</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/klikindomaret_events?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/klikindomaret_events?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/klikindomaret_events?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/klikindomaret_events?style=flat-square&labelColor=343b41"/></td>
-    </tr>
       <td><a href="https://github.com/ipkzone/installerhmsc"><b>Installer HMSC Libs</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/installerhmsc?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/installerhmsc?style=flat-square&labelColor=343b41"/></td>
