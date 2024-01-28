@@ -32,14 +32,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ipkzone/klikindomaret"><b>KLIK-IDM Version 4.1</a></td>
+      <td><a href="https://github.com/ipkzone/klikindomaret"><b>KLIK-IDM Version 4.6</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/klikindomaret?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/klikindomaret?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/klikindomaret?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/klikindomaret?style=flat-square&labelColor=343b41"/></td>
 	  </tr>
 	      <tr>
-      <td><a href="https://github.com/ipkzone/alfagift"><b>ALFAGIFT Version 2.7</a></td>
+      <td><a href="https://github.com/ipkzone/alfagift"><b>ALFAGIFT Version 4.6</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/alfagift?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/alfagift?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/alfagift?style=flat-square&labelColor=343b41"/></td>
