@@ -1,6 +1,6 @@
-<h2> Hi, I'm Ferry Kirdan Agustin 👋</h2>
+<h2> Hi, I'm Ferry Kirdan Agustin ( Iddant ID )👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ipkzone&show_icons=true&theme=radical" width="380">
-<p><em>Silent Crypto Airdrop <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+<p><em>Iddant ID <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
 [![Twitter: verry__d](https://img.shields.io/twitter/follow/ipkzone?style=flat-square)](https://twitter.com/ipkzone)
@@ -8,17 +8,6 @@
 [![Paypal viloid](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/ipkzone)
 
 <br>
-
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning      808 commits       ███████████░░░░░░░░░░░░░░   44.08 % 
-🌆 Daytime      585 commits       ████████░░░░░░░░░░░░░░░░░   31.91 % 
-🌃 Evening      384 commits       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-🌙 Night         56 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-
-```
 <h3>Project Build</h3>
 <table>
   <thead align="center">
