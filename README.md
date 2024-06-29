@@ -20,33 +20,40 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+<tr>
       <td><a href="https://github.com/ipkzone/klikindomaret"><b>KLIK INDOMARET</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/klikindomaret?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/klikindomaret?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/klikindomaret?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/klikindomaret?style=flat-square&labelColor=343b41"/></td>
-	  </tr>
-	      <tr>
+</tr>
+<tr>
       <td><a href="https://github.com/ipkzone/alfagift"><b>ALFAGIFT</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/alfagift?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/alfagift?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/alfagift?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/alfagift?style=flat-square&labelColor=343b41"/></td>
-	  </tr>
+</tr>
+<tr>
+      <td><a href="https://github.com/ipkzone/alfagift"><b>OVO</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/OVO?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/OVO?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/OVO?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/OVO?style=flat-square&labelColor=343b41"/></td>
+</tr>
      <tr>
       <td><a href="https://github.com/ipkzone/installerhmsc"><b>INSTALLER HMSC PC</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/installerhmsc?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/installerhmsc?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/installerhmsc?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/installerhmsc?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	       <tr>
+</tr>
+<tr>
       <td><a href="https://github.com/ipkzone/installerhmsc"><b>INSTALLER HMSC TERMUX</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/termux-php-hmsc?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/termux-php-hmsc?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/termux-php-hmsc?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/termux-php-hmsc?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+</tr>
   </tbody>
 </table>
