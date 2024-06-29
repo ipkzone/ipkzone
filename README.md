@@ -1,8 +1,7 @@
 <h2> Hi, I'm Ferry Kirdan Agustin ( Iddant ID )👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ipkzone&show_icons=true&theme=radical" width="380">
 <br>
-<p><em>Iddant ID <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-</em></p>
+</em></p></p>
 
 [![Twitter: verry__d](https://img.shields.io/twitter/follow/ipkzone?style=flat-square)](https://twitter.com/ipkzone)
 [![GitHub vsec7](https://img.shields.io/github/followers/ipkzone?label=follow%20github&style=flat-square)](https://github.com/ipkzone)
