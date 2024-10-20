@@ -34,7 +34,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ipkzone/alfagift?style=flat-square&labelColor=343b41"/></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/ipkzone/alfagift"><b>OVO</a></td>
+      <td><a href="https://github.com/ipkzone/OVO"><b>OVO</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ipkzone/OVO?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ipkzone/OVO?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ipkzone/OVO?style=flat-square&labelColor=343b41"/></td>
